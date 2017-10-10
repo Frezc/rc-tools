@@ -27,3 +27,5 @@ spm_modules
 dist
 tests/*.css
 yarn.lock
+.vscode/
+package-lock.json

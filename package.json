@@ -6,13 +6,13 @@
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/react-component/rc-tools",
+  "homepage": "https://github.com/Frezc/rc-tools",
   "author": {
-    "name": "yiminghe@gmail.com"
+    "name": "504021398@qq.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/rc-tools.git"
+    "url": "git@github.com:Frezc/rc-tools.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/rc-tools/issues"
@@ -64,6 +64,7 @@
     "gulp-jsx2example": "^1.2.4",
     "gulp-less": "3.x",
     "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^3.1.0",
     "gulp-typescript": "~3.0.2",
     "gulp-watch": "^4.3.10",
     "gzip-size": "^3.0.0",

@@ -27,3 +27,5 @@ spm_modules
 .cache
 dist
 tests/*.css
+.vscode/
+package-lock.json
