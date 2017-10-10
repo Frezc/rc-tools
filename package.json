@@ -1,7 +1,7 @@
 {
-  "name": "rc-tools",
-  "version": "7.0.0",
-  "description": "offline tools for react component",
+  "name": "rclib-tools",
+  "version": "0.0.1",
+  "description": "fork from rc-tools",
   "keywords": [
     "react",
     "tools"
