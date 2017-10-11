@@ -39,6 +39,11 @@ package.json demo
 
 ## History
 
+### 0.1.6
+- re-add rclib-tools to dependency
+- change some eslint rules
+- add pre-commit to pkg
+
 ### 0.1.5
 - add support to decorator
 
