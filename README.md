@@ -39,7 +39,10 @@ package.json demo
 
 ## History
 
-###
+### 0.1.4
+- rename publish command by pub-d
+
+### 0.1.3
 - remove dependency when init and update-self in pub 
 
 ### 0.1.2
