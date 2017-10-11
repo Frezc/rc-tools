@@ -39,6 +39,9 @@ package.json demo
 
 ## History
 
+### 0.1.7
+- add prepublishOnly hook
+
 ### 0.1.6
 - re-add rclib-tools to dependency
 - change some eslint rules
