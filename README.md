@@ -39,7 +39,7 @@ package.json demo
 
 ## History
 
-### 7.0.0
+### 0.1.0
 
 - support init.
 
