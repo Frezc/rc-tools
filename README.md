@@ -39,6 +39,9 @@ package.json demo
 
 ## History
 
+### 0.1.5
+- add support to decorator
+
 ### 0.1.4
 - rename publish command by pub-d
 
