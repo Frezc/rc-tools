@@ -39,18 +39,17 @@ package.json demo
 
 ## History
 
-### 0.1.2
+###
+- remove dependency when init and update-self in pub 
 
+### 0.1.2
 - support babel-plugin-lodash
 
 ### 0.1.1
-
 - rename bin 
 
 ### 0.1.0
-
 - support init.
 
 ### 0.0.1
-
 - fork from rc-tools & support sass compile.
