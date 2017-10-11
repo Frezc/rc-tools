@@ -39,6 +39,14 @@ package.json demo
 
 ## History
 
+### 0.1.2
+
+- support babel-plugin-lodash
+
+### 0.1.1
+
+- rename bin 
+
 ### 0.1.0
 
 - support init.

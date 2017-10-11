@@ -1,6 +1,6 @@
 {
   "name": "rclib-tools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "fork from rc-tools",
   "keywords": [
     "react",
@@ -35,6 +35,7 @@
     "babel-eslint": "^4.1.8",
     "babel-loader": "^7.1.2",
     "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-lodash": "^3.2.11",
     "babel-plugin-transform-es3-member-expression-literals": "^6.22.0",
     "babel-plugin-transform-es3-property-literals": "^6.22.0",
     "babel-plugin-transform-object-assign": "^6.22.0",
@@ -86,12 +87,14 @@
     "merge2": "~1.0.2",
     "minimist": "1.x",
     "modulex-util": "^1.1.9",
+    "node-sass": "^4.5.3",
     "normalize.css": "^3.0.3",
     "object-assign": "4.x",
     "postcss-loader": "^1.2.2",
     "progress-bar-webpack-plugin": "^1.9.3",
     "recursive-readdir": "^2.2.1",
     "request": "^2.81.0",
+    "sass-loader": "^6.0.6",
     "shelljs": "0.3.x",
     "strip-ansi": "^4.0.0",
     "style-loader": "^0.18.2",
@@ -104,9 +107,7 @@
     "url-loader": "^0.5.9",
     "webpack": "^3.6.0",
     "xtemplate": "^4.4.2",
-    "xtpl": "^3.2.0",
-    "node-sass": "^4.5.3",
-    "sass-loader": "^6.0.6"
+    "xtpl": "^3.2.0"
   },
   "devDependencies": {
     "pre-commit": "1.x"
