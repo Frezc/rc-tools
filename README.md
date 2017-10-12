@@ -39,6 +39,10 @@ package.json demo
 
 ## History
 
+### 0.1.9
+- add lint check before publish
+- default config.port won't replace user's config.port.
+
 ### 0.1.8
 - merge with rc-tools 7.0.1
 - replace less and scss to css when compile
