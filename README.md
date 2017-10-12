@@ -39,6 +39,10 @@ package.json demo
 
 ## History
 
+### 0.1.8
+- merge with rc-tools 7.0.1
+- replace less and scss to css when compile
+
 ### 0.1.7
 - add prepublishOnly hook
 
