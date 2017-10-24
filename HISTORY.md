@@ -1,3 +1,8 @@
+### 0.1.11
+- add jest config
+- fix init bug, `postinstall` will be executed after install rclib-tools. (This won't be executed twice unless you remove `disable_update = true`)
+- you can add `lib-tools: { disable_update: true }` to package.json to disable above feature
+
 ### 0.1.10
 - add clean script
 - improve doc

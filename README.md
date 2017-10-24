@@ -9,29 +9,31 @@ fork from rc-tools
 - add babel plugins `babel-plugin-lodash`, `babel-plugin-transform-decorators-legacy`
 - change some eslint rules
 - replace ext `less` and `scss` to `css` at compile
+- init and update after install.(you can add `lib-tools: { disable_update: true }` to package.json to disable this feature)
 
 ## Usage
 
 ```
 Initial
 
-npm i -g rclib-tools
-cd work directory
-rclib-tools init -y
-npm install
+mkdir myProject
+cd myProject
+npm i -D rclib-tools
 ```
 
-```
-Project
+## Scripts
 
-$ rc-tools run lint: run lint by https://github.com/airbnb/javascript
-$ rc-tools run pub: compile and npm publish
-$ rc-tools run watch --out-dir=/xx: watch and compile to /xx, default to lib
-$ rc-tools run build: build examples
-$ rc-tools run gh-pages: push example to gh-pages
-$ rc-tools run start: start dev server
-```
-
+- init: init or update package.json
+- lint: run lint by https://github.com/airbnb/javascript
+- pub-d: compile and npm publish
+- pub: do `pub-d`, `gh-pages` and `git tag` 
+- watch --out-dir=/xx: watch and compile to /xx, default to lib
+- build: build examples
+- gh-pages: push example to gh-pages
+- start: start dev server
+- test: jest
+- coverage: coverage
+- clean: remove built files
 
 package.json demo
 
