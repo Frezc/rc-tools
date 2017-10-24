@@ -1,5 +1,5 @@
 ### 0.1.12
-- init must executed when `package.json` exists.
+- init will create config when `package.json` not exists.
 
 ### 0.1.11
 - add jest config
