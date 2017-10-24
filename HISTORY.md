@@ -1,3 +1,6 @@
+### 0.1.12
+- init must executed when `package.json` exists.
+
 ### 0.1.11
 - add jest config
 - fix init bug, `postinstall` will be executed after install rclib-tools. (This won't be executed twice unless you remove `disable_update = true`)

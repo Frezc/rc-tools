@@ -18,6 +18,7 @@ Initial
 
 mkdir myProject
 cd myProject
+npm init
 npm i -D rclib-tools
 ```
 
