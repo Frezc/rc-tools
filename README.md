@@ -33,7 +33,8 @@ npm i -D rclib-tools
 - gh-pages: push example to gh-pages
 - start: start dev server
 - test: jest
-- coverage: coverage
+- update-snapshot: jest -u
+- coverage: jest --coverage
 - clean: remove built files
 
 package.json demo

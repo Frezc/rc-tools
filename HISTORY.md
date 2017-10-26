@@ -1,3 +1,8 @@
+### 0.1.13
+- fix transform path.
+- add script `update-snapshot`
+- fix `import (.css|.scss|.less)` caused error in test env.
+
 ### 0.1.12
 - init will create config when `package.json` not exists.
 
